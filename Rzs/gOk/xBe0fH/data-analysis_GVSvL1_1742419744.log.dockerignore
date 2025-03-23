@@ -23,7 +23,6 @@ gradio/templates/frontend/cdn
 gradio/launches.json
 gradio/hash_seed.txt
 
-# Tests
 .coverage
 coverage.xml
 test.txt
