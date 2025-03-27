@@ -27,7 +27,6 @@ def parseCommand(command):
     else:
         Logger.error("Unknown command!")
 
-    menu()
 
 
 if __name__ == '__main__':
