@@ -1,7 +1,6 @@
 .editorconfig
 .gitattributes
 .github
-.gitignore
 .gitlab-ci.yml
 .idea
 .pre-commit-config.yaml
