@@ -3,7 +3,6 @@ extend-exclude = [
     ".git/",
     "deps/",
     "iina.xcodeproj/",
-    "**/*.strings",
 ]
 ignore-hidden = false
 
