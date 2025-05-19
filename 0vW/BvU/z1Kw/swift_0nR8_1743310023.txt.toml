@@ -1,5 +1,4 @@
 [files]
-extend-exclude = [
     ".git/",
     "deps/",
     "iina.xcodeproj/",
