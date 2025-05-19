@@ -299,7 +299,6 @@ of these things:
     copy of the library already present on the user's computer system,
     rather than copying library functions into the executable, and (2)
     will operate properly with a modified version of the library, if
-    the user installs one, as long as the modified version is
     interface-compatible with the version that the work was made with.
 
     c) Accompany the work with a written offer, valid for at
