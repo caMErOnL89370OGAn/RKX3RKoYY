@@ -5,7 +5,6 @@ extend-exclude = [
     "iina.xcodeproj/",
 ]
 ignore-hidden = false
-
 [default]
 extend-ignore-re = [
     "\\bBig Sur\\b",
