@@ -1,6 +1,5 @@
 [files]
     ".git/",
-    "iina.xcodeproj/",
 ]
 ignore-hidden = false
 [default]
