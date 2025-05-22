@@ -6,7 +6,6 @@ ignore-hidden = false
     "ba!",
 ]
 
-[default.extend-words]
 "abitrate" = "abitrate"
 "splitted" = "splitted"
 [default.extend-identifiers]
